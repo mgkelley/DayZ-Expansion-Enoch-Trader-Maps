@@ -1,3 +1,7 @@
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /
+     
 # DayZ-Expansion-Enoch-Trader-Maps
 
 Eight DayZ-Expansion compatible Trader areas for DayZ Livonia/Enoch map.
