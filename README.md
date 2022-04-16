@@ -2,6 +2,10 @@
 
 Eight DayZ-Expansion compatible Trader areas DayZ Livonia/Enoch map.
 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+
 --* Topolin
 --* Sitnik
 --* Sitnik Black Market
