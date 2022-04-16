@@ -17,5 +17,5 @@ ATM Objects are Blue Locker.
 <br />Most areas have survivor lounge area with fire pit and all areas have water well.
 
 # Instructions
-Place files for the traders you want from _'traders'_ folder into 'mpmissions\expansion.enoch\expansion\traders\' on your server,<br />
-Place files for the trader areas you want from _'objects'_ folder into 'mpmissions\expansion.enoch\expansion\objects\' on your server.
+Place files for the traders you want from _'traders'_ folder into 'mpmissions/expansion.enoch/expansion/traders/' on your server,<br />
+Place files for the trader areas you want from _'objects'_ folder into 'mpmissions/expansion.enoch/expansion/objects/' on your server.
