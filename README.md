@@ -17,6 +17,6 @@ ATM Objects are Blue Locker.
 <br />Most areas have survivor lounge area with fire pit and all areas have water well.
 
 Instructions.
-Place all files from 
+Place all files from F:\Program Files\Steam\steamapps\common\DayZServerApocZ\mpmissions\expansion.enoch\expansion
 
 
