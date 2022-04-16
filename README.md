@@ -1,6 +1,4 @@
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="https://www.apocz.com/content/images/DayZ/ss1.jpg" style="width: 80; margin: auto;" />
      
 # DayZ-Expansion-Enoch-Trader-Maps
 
