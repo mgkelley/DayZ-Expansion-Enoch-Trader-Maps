@@ -13,7 +13,7 @@ Eight DayZ-Expansion compatible Trader areas DayZ Livonia/Enoch map.
 
 There are _Weapons, Weapons Attachments, Clothing, Clothing Accessories, Consumables, Medical, Vehicles, Vehicle Parts, Components_ and _Building Supplies traders_.
 
-<br />ATM Objects are Blue Locker.
+ATM Objects are Blue Locker.
 <br />Most areas have survivor lounge area with fire pit and all areas have water well.
 
 Instructions.
