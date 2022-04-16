@@ -20,7 +20,13 @@ ATM Objects are Blue Locker.
 Place files for the traders you want from _'traders'_ folder into 'mpmissions/expansion.enoch/expansion/traders/' on your server,<br />
 Place files for the trader areas you want from _'objects'_ folder into 'mpmissions/expansion.enoch/expansion/objects/' on your server.
 
-Also supplied is a 'SafeSoneSettings.json' that can be merged with 'mpmissions/expansion.enoch/expansion/settings/SafeZoneSettings.json' on your server.<br />
-'MapSetting.json' contains Map Markers for each trader, merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on your server.<br />
-'MapSetting.json' contains 'LandSpawnPositions' for each vehicle trader, merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' on your server.<br />
+Also supplied are .json files for SafeZone, Map Markers and Land Spawn Positions.<br />
+'SafeSoneSettings.json (Contains Safe Zones for traders)'<br />
+Merged with 'mpmissions/expansion.enoch/expansion/settings/SafeZoneSettings.json' on your server.<br />
+
+'MapSetting.json' (Contains Map Markers for traders) <br />
+Merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on your server.<br />
+
+'MarketSetting.json' (Contains Land Spawn Positions for vehicel traders)<br/>
+Merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' on your server.<br />
 
