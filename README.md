@@ -1,7 +1,5 @@
-<img src="https://www.apocz.com/content/images/DayZ/ss1.jpg" style="width: 80; margin: auto;" />
-     
 # DayZ-Expansion-Enoch-Trader-Maps
-
+<img src="https://www.apocz.com/content/images/DayZ/ss1.jpg" style="width: 80; margin: auto;" />
 Eight DayZ-Expansion compatible Trader areas for DayZ Livonia/Enoch map.
 
 * Topolin
