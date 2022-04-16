@@ -23,7 +23,7 @@ Place files for the trader areas you want from _'objects'_ folder into 'mpmissio
 Also supplied are .json files for SafeZone, Map Markers and Land Spawn Positions.<br />
 
 _'SafeSoneSettings.json_ (Contains Safe Zones for traders)'<br />
-Merged with 'mpmissions/expansion.enoch/expansion/settings/SafeZoneSettings.json' on your server.<br />
+Merge with 'mpmissions/expansion.enoch/expansion/settings/SafeZoneSettings.json' on your server.<br />
 
 _'MapSetting.json'_ (Contains Map Markers for traders) <br />
 Merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on your server.<br />
