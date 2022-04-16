@@ -3,10 +3,10 @@
 Eight DayZ-Expansion compatible Trader areas DayZ Livonia/Enoch map.
 
 Lists:
-1 - Topolin
-2 - Sitnik
-3 - Sitnik Black Market
-4 - Kulno
+--* Topolin
+--* Sitnik
+--* Sitnik Black Market
+--* Kulno
 5 - North Polana
 6 - Zaleskie Black Market
 7 - South West Hunter (North West Of Swarog)
