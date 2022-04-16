@@ -2,6 +2,7 @@
 
 Eight DayZ-Expansion compatible Trader areas DayZ Livonia/Enoch map.
 
+Lists:
 1 - Topolin
 2 - Sitnik
 3 - Sitnik Black Market
