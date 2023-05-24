@@ -1,5 +1,5 @@
 # DayZ-Expansion-Enoch-Trader-Maps
-!(https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/EnochTradersDayZExpansion.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/EnochTradersDayZExpansion.jpg?raw=true)
 
 Eight DayZ-Expansion compatible Trader areas for DayZ Livonia/Enoch map.
 
