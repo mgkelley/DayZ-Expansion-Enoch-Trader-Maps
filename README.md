@@ -32,6 +32,9 @@ Merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on y
 _'MarketSetting.json'_ (Contains Land Spawn Positions for vehicel traders)<br/>
 Merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' on your server.<br />
 <br />
+NOTE: These .map Objects rely on '@BuilderItems' mod that is embeded in DayZ-Expansion. If you try to use them seperate from Expansion
+be sure to include the '@BuilderItems' mod.<br />
+<br />
 ![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss2.jpg?raw=true)
 ![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss2a.jpg?raw=true)
 ![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss3a.jpg?raw=true)
