@@ -32,9 +32,10 @@ Merge with 'mpmissions/expansion.enoch/expansion/settings/MapSettings.json' on y
 _'MarketSetting.json'_ (Contains Land Spawn Positions for vehicel traders)<br/>
 Merge with 'mpmissions/expansion.enoch/expansion/settings/MarketSettings.json' on your server.<br />
 <br />
-<img src="https://www.apocz.com/content/images/DayZ/ss5.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss0.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss3.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss4.jpg" style="width: 80; margin: auto;" />
-<img src="https://www.apocz.com/content/images/DayZ/ss2.jpg" style="width: 80; margin: auto;" />
-
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss2.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss2a.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss3a.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss4a.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss5.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss5a.jpg?raw=true)
+![](https://github.com/mgkelley/DayZ-Expansion-Enoch-Trader-Maps/blob/main/screenshots/2663421178_preview_ss8.jpg?raw=true)
